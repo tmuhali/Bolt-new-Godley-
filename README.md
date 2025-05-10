@@ -1,3 +1,4 @@
+[![NodeJS with Grunt](https://github.com/tmuhali/Bolt-new-Godley-/actions/workflows/npm-grunt.yml/badge.svg?branch=main&event=push)](https://github.com/tmuhali/Bolt-new-Godley-/actions/workflows/npm-grunt.yml)
 [![NodeJS with Grunt](https://github.com/tmuhali/Bolt-new-Godley-/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/tmuhali/Bolt-new-Godley-/actions/workflows/npm-grunt.yml)
 [![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
 
